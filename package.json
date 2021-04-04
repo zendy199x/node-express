@@ -1,0 +1,19 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "create web use node and express example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zendy199x/node-express.git"
+  },
+  "author": "Zendy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zendy199x/node-express/issues"
+  },
+  "homepage": "https://github.com/zendy199x/node-express#readme"
+}
